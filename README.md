@@ -4,9 +4,10 @@
 ### Install
 ```
 1. mvn clean install
-2. Run SpringDataRedisApplication
-3. http://localhost:8080/save
-4. http://localhost:8080/findall
-5. http://localhost:8080/find?id=4
-5. http://localhost:8080/uppercase
-5. http://localhost:8080/delete?id=4
+2. start redis server
+3. Run SpringDataRedisApplication
+4. http://localhost:8080/save
+5. http://localhost:8080/findall
+6. http://localhost:8080/find?id=4
+7. http://localhost:8080/uppercase
+8. http://localhost:8080/delete?id=4
